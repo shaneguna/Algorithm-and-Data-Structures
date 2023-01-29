@@ -1,5 +1,5 @@
 <?
-
+// words = ["code","aaagmnrs","anagrams","doce"]
 function removeAnagrams(array $words) {
   $result = [];
   $prev = [];
