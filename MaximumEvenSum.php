@@ -1,5 +1,5 @@
 <?php
-
+// $input [-1, -2, -3, 8, 7]
 function getMaxiumEvenSum($input){
  $sum = 0;
  $count = count($input);
